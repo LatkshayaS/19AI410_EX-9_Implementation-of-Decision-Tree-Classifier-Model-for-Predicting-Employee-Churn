@@ -86,7 +86,7 @@ print("\nPredicted Salary for 5 years experience:", predicted_salary[0])
 
 ## Output:
 ![EX_9_1](EX_9_1.png)
-![EX_9_2](EX_9_2)
+![EX_9_2](EX_9_2.png)
 
 
 ## Result:
